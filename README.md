@@ -11,8 +11,6 @@ Given (.deb) packages, you can check if there are known vulnerabilities that aff
    * Pip3:
      * PyMongo
      * natsort
-     * beautifulsoup4
-     * requests
      * lxml
 
 # Installation
